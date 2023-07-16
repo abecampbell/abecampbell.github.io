@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+  }
+
+.my-class {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+#my-id {
+    background-color: yellow;
+  }
+  
+.myform {
+    color: blue;
+  }
